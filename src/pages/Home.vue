@@ -154,7 +154,7 @@ export default {
     },
     data() {
         return {
-            paystackkey: "pk_test_3fadc44a94791f498e20bfeadcf665c665540aa3", //paystack public key
+            paystackkey: "pk_test_YOUR_PAYSTACK_TEST_KEY", //paystack public key
             categories: [],
             active: 0,
             cart: [],
